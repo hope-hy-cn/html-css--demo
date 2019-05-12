@@ -2,7 +2,7 @@
 
 ## 首页
 
-https://hope-hy-cn.github.io/html-css--demo/
+https://hope-hy-cn.github.io/html-css--demo/index.html
 
 ## 可能需要使用的资源 CDN
 
